@@ -29,13 +29,13 @@ Early prototypes were developed using an **Arduino Uno** and larger motor driver
 - L298N motor driver (initial testing)
 - TB66 motor driver (final build)
 
-### Actuators
+### Motors
 - DC motor (drive)
 - Servo motor (steering)
 
 ### Power & Electronics
 - Buck converter for voltage regulation
-- Capacitors for voltage smoothing
+- 7.4v 600mAh Li-ion Battery
 - LEDs for headlights and brake lights
 
 ### Control Interface
