@@ -13,8 +13,6 @@ The final system integrates a DC drive motor, servo-based steering, LED lighting
 ## 🧩 Design and Planning
 The project began with **hand-drawn sketches** detailing the car’s internal layout, dimensions, and component placement. This planning stage helped identify spatial constraints and guided mechanical integration decisions.
 
-![Initial Design Sketches](images/design_sketches.jpg)
-
 Early prototypes were developed using an **Arduino Uno** and larger motor drivers to explore motor control fundamentals, including polarity reversal for direction control and pulse-width modulation (PWM) for speed variation. These prototypes served as proof-of-concept builds before transitioning to a more compact final design.
 
 ---
@@ -69,7 +67,6 @@ The firmware handles:
 
 Development involved iterative testing and debugging, with emphasis on PWM timing, code efficiency, and reliable microcontroller-to-driver communication.
 
-![Control Logic Diagram](images/control_flow.png)
 
 ---
 
