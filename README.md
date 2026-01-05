@@ -6,7 +6,7 @@ This project involved the design and construction of a **1:32 scale remote-contr
 
 The final system integrates a DC drive motor, servo-based steering, LED lighting, and Bluetooth communication within the limited spatial constraints of a small-scale chassis.
 
-![Completed RC Car](images/final car.jpg)
+![Completed RC Car](images/final_car.jpg)
 
 ---
 
